@@ -1,0 +1,10 @@
+6 8
+F A 1
+A B 1
+A E 5
+B C 4
+B D 1
+D C 2
+E D 4
+E F 1
+F

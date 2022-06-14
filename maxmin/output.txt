@@ -1,0 +1,9 @@
+Maximum Element: 5
+Minimum Element: 1
+
+Maximum Element: 6
+Minimum Element: 1
+
+Maximum Element: 7
+Minimum Element: 1
+

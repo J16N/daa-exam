@@ -1,0 +1,7 @@
+ID	DEADLINE	PROFIT
+06	   1		  6.00
+04	   3		 18.00
+03	   4		 20.00
+07	   2		 30.00
+
+Total Profit = 74.00
